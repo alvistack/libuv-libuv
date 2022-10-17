@@ -1,0 +1,4 @@
+usr/include usr/
+usr/lib/*/*.a usr/lib/x86_64-linux-gnu/
+usr/lib/*/*.so usr/lib/x86_64-linux-gnu/
+usr/lib/*/pkgconfig usr/lib/x86_64-linux-gnu/
