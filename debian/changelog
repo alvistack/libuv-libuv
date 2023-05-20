@@ -1,0 +1,5 @@
+libuv (100:1.44.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/libuv/libuv/releases/tag/v1.44.2
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Wed, 13 Jul 2022 07:11:25 +0800
