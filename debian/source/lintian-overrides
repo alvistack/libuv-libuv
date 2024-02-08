@@ -1,0 +1,4 @@
+libuv source: file-without-copyright-information
+libuv source: no-debian-changes
+libuv source: not-binnmuable-any-depends-any
+libuv source: weak-library-dev-dependency
