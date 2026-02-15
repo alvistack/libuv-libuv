@@ -1,0 +1,9 @@
+*.substvars
+*debhelper*
+.debhelper
+autoreconf.*
+files
+libuv1
+libuv1-dev
+libuv1t64
+tmp
